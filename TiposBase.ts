@@ -53,6 +53,7 @@ const enum ActividadNinja{
 console.log(ActividadNinja["Sabojate"]);
 
 //arrays
-let numeros:number[]=[1,2,3];
+let numeros2:number[]=[1,2,3];
 let arraygenericostring:Array<string>=['primero','segundo','tercero']
 
+export const pi:number=3.1416
